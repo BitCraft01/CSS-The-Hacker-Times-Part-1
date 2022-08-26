@@ -42,3 +42,15 @@ body {
   main h2{
       font-family: Roboto Slab;
   }
+  nav{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+  }
+  .more-articles{
+    display: flex;
+    
+  }
+  
+
+  
